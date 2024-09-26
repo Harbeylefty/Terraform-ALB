@@ -4,5 +4,5 @@ availabililty_zone_1 = ["us-east-1a", "us-east-1b"]
 public_subnet_names = ["public_subnet_1", "public_subnet_2"]
 private_cidr = "10.0.3.0/24"
 availablilty_zone = "us-east-1c"
-ami_id = "ami-0e86e20dae9224db8"
+ami_id = "ami-hhdhdxxxxxxx"
 instance_names = ["Instance_1", "Instance_2"]
